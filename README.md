@@ -1,2 +1,9 @@
-# tallersantiago_A
-Taller de entorno de desarrollo
+# Taller Nro. 1 Entorno de desarrollo
+
+-Nombre: Santiago Cuenca
+
+## Descripción
+
+## Funcionamiento
+
+![](img/programa.jpg)
